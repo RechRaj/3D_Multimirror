@@ -19,6 +19,18 @@ C++ \
 OpenGL library \
 Glut toolkit (OpenGL)
 
+#### Softwares:
+
+• Windows – XP/7/8 \
+• Microsoft Visual Studio C/C++ 7.0 and above versions \
+• OpenGL Files \
+• DirectX 8.0 and above versions \
+Header Files: \
+• glut.h \
+Object File Libraries: \
+• glut32.lib DLL files \
+• glut32.dll \
+
 ----
 #### Snapshots
 
